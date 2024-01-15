@@ -1,7 +1,9 @@
 # react-platform
-Projeto desenvolvido com objetivo de praticar os principais conceitos do React, nesse projeto estamos utilizando ferramentas e tecnologias como
+Projeto desenvolvido com objetivo de praticar os principais conceitos do React, nesse projeto estamos utilizando ferramentas e tecnologias como:
+
+- React
 - ReactDom
-- DataFns
+- DateFns
 - Phosphor React
 - Typescript
 - Css modules
